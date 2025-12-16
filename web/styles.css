@@ -1,0 +1,53 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 15.12.2025, 20:47:19
+    Author     : etwas
+*/
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+body {
+    background-color: #13131B;
+    color: #A3193D;
+    font-family: 'Space Mono', monospace;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.4);
+    
+    transform: scale(1.5);
+    overflow: hidden;
+    
+}
+div{
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+}
+input{
+    
+    border: none;
+    color: #edeef1;
+    background-color: rgb(5, 5, 5);
+    border-radius: 10px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+    border: 1px solid #A3193D;
+}
+
+button{
+    
+    border: none;
+    color: #edeef1;
+    background-color: rgb(5, 5, 5);
+    border-radius: 10px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+    border: 1px solid #A3193D;
+}
+button:hover{
+    background-color: rgb(66, 66, 66); 
+}
+.logo{
+    
+}
