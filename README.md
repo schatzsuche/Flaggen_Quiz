@@ -1,11 +1,31 @@
 # 🏳️ Flaggen-Quiz
 
-Ein **simples Flaggen-Quiz** als Webseite, mit dem man Länderflaggen lernen und sein Wissen testen kann.
-Aktuel hat es nur europeische Flaggen aber das ändert sich vileicht noch
----
-## Verwendete Programmier Sprachen 
-* **HTML**
-* **CSS**
-* **JSP(JAVA)** 
+Ein **einfaches Flaggen-Quiz** als Webseite, mit dem du die Flaggen europäischer Länder lernen und dein Wissen testen kannst. Aktuell sind nur europäische Flaggen enthalten, aber das könnte in Zukunft erweitert werden.
 
 ---
+
+## 💻 Verwendete Technologien
+
+* **HTML** – Struktur der Webseite
+* **CSS** – Gestaltung und Layout
+* **JSP (Java)** – Logik und interaktive Funktionen
+
+---
+
+## 🎯 Features
+
+* Zufällige Flaggen anzeigen
+* Direkte Rückmeldung, ob die Antwort richtig oder falsch ist
+* Läuft komplett im Browser
+
+---
+
+## 🚀 Nutzung
+
+1. Projekt herunterladen oder klonen
+2. `index.jsp` im Browser oder auf einem Java-fähigen Server öffnen
+3. Flaggen-Quiz starten und Spaß haben!
+
+---
+
+Viel Spaß beim Lernen der europäischen Flaggen! 🇪🇺
