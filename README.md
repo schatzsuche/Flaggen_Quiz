@@ -20,12 +20,4 @@ Ein **einfaches Flaggen-Quiz** als Webseite, mit dem du die Flaggen europäische
 
 ---
 
-## 🚀 Nutzung
-
-1. Projekt herunterladen oder klonen
-2. `index.jsp` im Browser oder auf einem Java-fähigen Server öffnen
-3. Flaggen-Quiz starten und Spaß haben!
-
----
-
 Viel Spaß beim Lernen der europäischen Flaggen! 🇪🇺
