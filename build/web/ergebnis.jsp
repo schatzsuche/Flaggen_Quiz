@@ -30,6 +30,8 @@
 
         <div>
             <h1><%= Ergebnis%></h1>
+            <br>
+            <h2>is wahr <%= flugen%></h2>
             <a href="Quiz.jsp"><button>Zurück</button></a>
         </div>
     </body>
