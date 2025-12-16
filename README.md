@@ -14,6 +14,8 @@ Ein **einfaches Flaggen-Quiz** als Webseite, mit dem du die Flaggen europäische
 
 du kannst dir die webseite [hier](https://flaggen-quiz.onrender.com/index.html) anschauen
 
+---
+
 ## 🎯 Features
 
 * Zufällige Flaggen anzeigen
@@ -23,3 +25,6 @@ du kannst dir die webseite [hier](https://flaggen-quiz.onrender.com/index.html) 
 ---
 
 Viel Spaß beim Lernen der europäischen Flaggen! 🇪🇺
+---
+
+ps: die webseite ist sehr langsam weil ich den free plan von Render genomen hab da JSP nicht mit Github Pages funktionirt
