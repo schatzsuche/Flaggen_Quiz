@@ -30,14 +30,14 @@
         
         <div>
             <h1>Welches Land</h1>
-            <img src="assets/flaggen/<%= flugen %>.png" style="width: 400px">
+            <img src="assets/flaggen/<%= flugen %>.png" style="height: 400px">
             <br>
             <form action="ergebnis.jsp" method="get">
             <input type="text" name="FLAGGE" autocomplete="off" required >
             <input type="submit" value="submit">
             </form>
             <br><br>
-            <a href="index.html"><button>Zurück</button></a>
+            <a href="index.html"><button>Weiter</button></a>
         </div>
     </body>
 </html>
