@@ -13,7 +13,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Flaggen Quiz</title>
         <link rel="stylesheet" href="styles.css">
-        <link rel="icon" href="assets/LOGO/logo_white.ico" type="image/x-icon">
+        <link rel="icon" href="assets/LOGO/logo_red.ico" type="image/x-icon">
     </head>
     <body>
         
